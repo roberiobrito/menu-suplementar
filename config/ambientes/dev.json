@@ -1,0 +1,15 @@
+{
+  "ambiente": "dev",
+  "porta": 8080,
+  "host": "localhost",
+  "proxy": "",
+  "protocol": "http",
+  "domain": "http://localhost",
+  "urlDadosPessoais": "https://seportes.camara.gov.br/api/servico-pessoas/api/pessoas/",
+  "urlMenuSuplementarApi": "https://sepor-tes.camara.leg.br/menu-suplementar/api/",
+  "urlWeServiceEdoc": "https://camaranet.camara.leg.br/edoc-ws/api/integracao/consultaDadosEdoc?ponto=",
+  "urlBuscaCamaranetApi": "https://socittes.camara.gov.br/api/buscacamaranet-api/api/v1/",
+  "estilosDoTema": "https://socittes.camara.gov.br/api/camara-temas/static/temas/camaranet.css",
+  "clientId": "menu-suplementar-frontend",
+  "baseUrlKeycloak": "https://auth-tes.camara.gov.br/auth"
+}

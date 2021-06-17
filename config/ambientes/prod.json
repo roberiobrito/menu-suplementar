@@ -1,0 +1,17 @@
+{
+  "ambiente": "prod",
+  "porta": 80,
+  "host": "localhost",
+  "proxy": "",
+  "protocol": "https",
+  "domain": "https://camaranet.camara.leg.br",
+  "urlMenuSuplementarApi": "https://camaranet.camara.leg.br/",
+  "urlDadosPessoais": "https://camaranet.camara.leg.br/api/servico-pessoas/api/pessoas/",
+  "urlWeServiceEdoc": "https://camaranet.camara.leg.br/edoc-ws/api/integracao/consultaDadosEdoc?ponto=",
+  "urlBuscaCamaranetApi": "https://camaranet.camara.leg.br/api/buscacamaranet-api/api/v1/",
+  "estilosDoTema": "https://camaranet.camara.leg.br/api/camara-temas/static/temas/camaranet.css",
+  "clientId": "menu-suplementar-frontend",
+  "clientUri": "https://camaranet.camara.leg.br/#/",
+  "accessTokenUri": "https://auth.camara.leg.br/auth/realms/camara/protocol/openid-connect/token",
+  "authorizationUri": "https://auth.camara.leg.br/auth/realms/camara/protocol/openid-connect/auth"
+}
